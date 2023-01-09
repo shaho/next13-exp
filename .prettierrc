@@ -1,7 +1,0 @@
- "arrowParens": "always",
- "semi": true,
- "trailingComma": "all",
- "bracketSpacing": true,
- "tabWidth": 2,
- "quoteProps": "consistent",
- "proseWrap": "always"
